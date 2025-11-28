@@ -7,9 +7,15 @@
 # Doação para o projeto.
 - Doação para o projeto.
 - Donation for the project.
+- [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ademesonsantiago)
 
-[![YouTube](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ademesonsantiago)
+# PIX Doação para o projeto.
+- **Nome**: Ademeson Santiago de Lima
+- **CPF**: ***.152.838-**
+- **Instituição**: PAGSEGURO S.A.
 
+- **Observação**: Conferir os dados a cima antes de finalizar o envio da doação.
+<img width="280" height="280" alt="qrcode-pix" src="https://github.com/user-attachments/assets/956d64f2-048d-40e5-b8ca-a16ea65c62e0" />
 
 
 # Novo Xbox Post Code Monitor.
